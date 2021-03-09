@@ -1,1 +1,2 @@
-g++ ./fail.cpp
+main:
+  g++ ./fail.cpp
